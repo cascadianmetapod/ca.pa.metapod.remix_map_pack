@@ -1,0 +1,30 @@
+{
+  "context": "client",
+  "identifier": "ca.pa.metapod.remix_map_pack",
+  "display_name": "An Uber map remix collection",
+  "description": "The systems you know and trust with some tweaks to make them fun again.",
+  "author": "cascadian",
+  "version": "1.0.0",
+  "build": "89756",
+  "date": "2016/04/27",
+  "signature": "not yet implemented",
+  "forum": "",
+  "icon": "http://imgur.com/r9mpRYR",
+  "category": [
+	  "map",
+	  "pack",
+	  "maps",
+	  "system",
+	  "planets",
+	  "planet",
+	  "systems"
+    ],
+    "load_planet": [
+        "coui://ui/mods/cascadian/maplist.js"
+    ],
+	"priority": 100,
+    "enabled": true,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems"
+    ]
+}

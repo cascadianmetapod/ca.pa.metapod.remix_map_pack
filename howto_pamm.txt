@@ -1,0 +1,43 @@
+
+I've used your forum name as author as PAMM links to the forum name.
+
+Whenever you update the mod you always need to change version and date, if you dont then pamm wont understand there is a new vertion. 
+If you're picky you can change the build number too though its not neccesary since there isnt many updates
+
+
+
+I have pushed the first vertion for you but follow this instructions (same prosess) to update
+
+How to push to pamm:
+
+Go to your github repo on the browser. In this case
+https://github.com/cascadianmetapod/MetapodMappackactual
+
+There you find the latest commit where your last changes i done.
+
+You get a new commit ID everytime you push out a new commit through your client.
+
+Click on the 'Latest Commit'
+
+In the URL of the browser you get something simular to this
+https://github.com/cascadianmetapod/MetapodMappackactual/commit/029f5fe313999a2f746c8472702f7a462b1b940f
+
+the thing you need to change in the link for pamm to handle it is:
+
+1. Replace commit with archive. You find this after MetapodMappackactual/here
+2. You end the link with .zip
+See below link for the correct result. You can also check it by navigating to the link below. You'll be downloading a zip file with the files in that commit.
+
+https://github.com/cascadianmetapod/MetapodMappackactual/archive/029f5fe313999a2f746c8472702f7a462b1b940f.zip
+
+Copy the link you have made and go to
+
+http://pamm-mereth.rhcloud.com/mod
+
+Paste the link and click on publish. Your mod is now on PAMM. You can also disable the mod through this way. (just repaste the link again with the same version number).
+
+Remember it'll only accept the update if you change the version number. If you didn't then you'll only get the option to disable the mod. (just check)
+
+
+
+
