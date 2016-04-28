@@ -29,7 +29,7 @@
                 "metalClusters": 0,
                 "metalSpotLimit": -1,
                 "biomeScale": 75.00000006869588,
-                "biome": "tropical",
+                "biome": "dessert",
                 "symmetryType": "terrain and CSG",
                 "symmetricalMetal": true,
                 "symmetricalStarts": false,
