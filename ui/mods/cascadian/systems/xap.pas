@@ -1,12 +1,8 @@
 {
     "name": "XAP system",
-     "players": [
-        2,
-        10
-    ],
     "creator": "(Metapod)",
     "version": "1",
-    "date": "2016/04/27",
+    "date": "2016/04/28",
     "description": "For those who hate pax, yet also love pax",
 	"planets": [
         {
