@@ -10,7 +10,7 @@
     "description": "A colder Pacific with more spawn metal",
 	"planets": [
         {
-            "name": "Poseidon X",
+            "name": "Posideon",
             "mass": 10000,
             "position_x": 17100,
             "position_y": -16700,

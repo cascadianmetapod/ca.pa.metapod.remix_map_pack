@@ -1,4 +1,4 @@
-﻿cShareSystems.load_pas("Remixed Systems", [
+﻿cShareSystems.load_pas("An Uber map remix collection", [
 	"coui://ui/mods/cascadian/systems/amplusplus.pas",
 	"coui://ui/mods/cascadian/systems/bedlam_boss.pas",
 	"coui://ui/mods/cascadian/systems/clutch_x.pas",

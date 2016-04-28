@@ -1,5 +1,5 @@
 {
-    "name": "Archipelago Forge ",
+    "name": "living Forge",
      "players": [
         2,
         2
