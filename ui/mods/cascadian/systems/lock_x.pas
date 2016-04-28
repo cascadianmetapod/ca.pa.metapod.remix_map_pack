@@ -7,7 +7,7 @@
     "creator": "(Metapod)",
     "version": "1",
     "date": "2016/03/20",
-    "description": ""The floor is lava" edition of Lock",
+    "description": "lock with lava",
 	"planets": [
         {
             "name": "TL-106-X",
