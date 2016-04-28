@@ -1,9 +1,9 @@
 {
-    "name": "XAP system",
-    "creator": "(Metapod)",
-    "version": "1",
+    "name": "XAP-system",
+    "creator": "Metapod",
+    "version": "2",
     "date": "2016/04/28",
-    "description": "For those who hate pax, yet also love pax",
+    "description": "kind of like PAX, but not",
 	"planets": [
         {
             "name": "Gebb",
