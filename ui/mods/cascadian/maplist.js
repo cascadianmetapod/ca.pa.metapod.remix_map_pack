@@ -9,6 +9,5 @@
 	"coui://ui/mods/cascadian/systems/lock_x.pas",
 	"coui://ui/mods/cascadian/systems/pacific_x.pas",
 	"coui://ui/mods/cascadian/systems/rok.pas",
-	"coui://ui/mods/cascadian/systems/xap_system.pas",
-	"coui://ui/mods/cascadian/systems/chokepoint.pas.pas"
+    "coui://ui/mods/cascadian/systems/chokepoint.pas.pas"
 ]);
