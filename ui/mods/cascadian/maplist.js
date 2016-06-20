@@ -11,5 +11,7 @@
 	"coui://ui/mods/cascadian/systems/xap.pas",
 	"coui://ui/mods/cascadian/systems/roc_with_trees.pas",
 	"coui://ui/mods/cascadian/systems/lavamplus.pas",
+	"coui://ui/mods/cascadian/systems/lockery.pas",
+	"coui://ui/mods/cascadian/systems/the_forgery.pas",
     "coui://ui/mods/cascadian/systems/chokepoint.pas.pas"
 ]);
