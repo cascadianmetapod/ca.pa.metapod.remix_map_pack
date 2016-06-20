@@ -1,6 +1,10 @@
 {
     "name": "Chokepoint",
-    "creator": "(Metapod)",
+    "players": [
+        2,
+        12
+    ],
+	"creator": "(Metapod)",
     "version": "5",
     "date": "2016/01/09",
     "description": "This was the first map I made, and as such I spent way too much time on it. The intent was to have three chokepoint ridden routes to the enemy base ideal for either bots, vehicles or naval. The result is a beautiful world with a ton of playability. Best to play with shared teams or as a 1v1.",

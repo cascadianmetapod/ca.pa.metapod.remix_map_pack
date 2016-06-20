@@ -9,5 +9,7 @@
 	"coui://ui/mods/cascadian/systems/pacific_x.pas",
 	"coui://ui/mods/cascadian/systems/rok.pas",
 	"coui://ui/mods/cascadian/systems/xap.pas",
+	"coui://ui/mods/cascadian/systems/roc_with_trees.pas",
+	"coui://ui/mods/cascadian/systems/lavamplus.pas",
     "coui://ui/mods/cascadian/systems/chokepoint.pas.pas"
 ]);
